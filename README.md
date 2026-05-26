@@ -10,6 +10,8 @@ Tras una exhaustiva investigación cruzando los registros policiales, entrevista
 
 Inicié buscando el reporte policial del día del asesinato en la ciudad indicada para entender qué había sucedido y encontrar los primeros indicios. La consulta arrojó que el primer testigo vive en la última casa de "Northwestern Dr" y el segundo testigo, llamada Annabel, vive en "Franklin Ave".
 
+State: Done
+
 ```sql
 -- 1. Busqué el reporte del crimen en la fecha y ciudad indicadas. Descubrí que hay dos testigos.
 SELECT * FROM crime_scene_report
